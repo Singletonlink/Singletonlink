@@ -20,7 +20,7 @@ I'm a Senior Full-Stack Developer with 4+ years of experience building modern we
 ---
 
 ### Collaboration
-I'm open to **remote opportunities**, freelance projects, and interesting collaborations.
+- I'm open to **remote opportunities**, freelance projects, and interesting collaborations.
 ---
 ### Contact
 GitHub: https://github.com/applicantperson
