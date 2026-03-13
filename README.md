@@ -9,7 +9,7 @@ I'm a Senior Full-Stack Developer with 4+ years of experience building modern we
 
 ### Tech Stack
 **Frontend:** Vue, HTML, CSS, React  
-**Backend:** Python, REST APIs, Flask, FastAPI, Pyramid   
+**Backend:** Python, REST APIs, Flask, FastAPI, Pyramid, Django    
 **Database:** PostgreSQL, SQLite  
 **Tools:** Git, Docker, CI/CD
 
